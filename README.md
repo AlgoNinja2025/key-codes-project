@@ -1,4 +1,4 @@
-# ⌨️ Key Codes Project
+# Project
 
 A simple and interactive web application that displays key codes, key names, and key values in real-time when a user presses any key on the keyboard.
 
